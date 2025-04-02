@@ -1,4 +1,4 @@
-# Hurtownie Danych - Sprawozdanie z zajęć laboratoryjnych
+# Hurtownie Danych
 
 ## Informacje ogólne
 Ten projekt został zrealizowany w ramach przedmiotu *Hurtownie Danych* na Wydziale Cybernetyki Wojskowej Akademii Technicznej w roku akademickim 2024/2025. Celem projektu było zaprojektowanie, implementacja i analiza hurtowni danych (HD) na podstawie bazy źródłowej Northwind, a następnie stworzenie raportów wspierających decyzje biznesowe.
